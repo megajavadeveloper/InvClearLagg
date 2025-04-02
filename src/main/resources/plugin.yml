@@ -1,0 +1,8 @@
+name: InvClearLagg
+version: '${project.version}'
+main: ru.invstudio.invclearlagg.InvClearLagg
+api-version: '1.16'
+commands:
+  iclear:
+    aliases:
+      - invclearlagg
